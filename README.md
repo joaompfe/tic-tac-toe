@@ -1,2 +1,1 @@
-## Jogo do Galo. Homem vs. Máquina.
-#### (Máquina não perde graças ao algoritmo minimax)
+## Tic tac toe. Man vs. (unbeatable) machine.
